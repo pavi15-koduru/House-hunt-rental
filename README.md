@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏡 House Hunt - DreamNest
 
 A full-stack **House Renting Application** built with **React**, **Node.js**, **Express**, and **MongoDB**. It allows users to browse, filter, and book rental homes, primarily targeting the Kadapa region.
@@ -65,3 +66,6 @@ House-Hunt/
 │   └── ...
 ├── README.md
 ├── .gitignore
+=======
+# House-hunt-rental
+>>>>>>> 005c6f18925a51f925e66b9d451362b50bd4a689
